@@ -3,6 +3,8 @@
 [📖 総合ガイド（Webサイト）はこちら](https://eduspectro.github.io/)
 
 ### 1. GitHubには「STL表示機能」がありますので、パーツを3D表示で見てみましょう。
+
+[ベースプレートへの組み立て１](images/led-assembly.png) 
 [ベースプレート](stl/BasePlate.stl):EduSpectroStationの土台です。<br>
 [キュベットホルダー](stl/CuvetteHolder.stl):キュベットを入れる枠です。光路周辺だけ光が通ります。<br>
 [サポート](stl/Support.stl):光路にセンサーを置くための基板の位置ぎめサポートです。<br>
