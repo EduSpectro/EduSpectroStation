@@ -4,14 +4,18 @@
 
 ### 1. GitHubには「STL表示機能」がありますので、パーツを3D表示で見てみましょう。
 <br>
+
 ![ベースプレートへの組み立て１](images/stl_Assy1.png) 
 <br>
+
 [ベースプレート](stl/BasePlate.stl):EduSpectroStationの土台です。<br>
 [キュベットホルダー](stl/CuvetteHolder.stl):キュベットを入れる枠です。光路周辺だけ光が通ります。<br>
 [サポート](stl/Support.stl):光路にセンサーを置くための基板の位置ぎめサポートです。<br>
 <br>
+
 ![投光器の組み立て](images/stl_Assy2.png) 
 <br>
+
 [投光器筐体](stl/Light.stl):投光器の土台です。<br>
 [LEDブロック](stl/BaseLED.stl):LEDを保持します。<br>
 [ピンホール](stl/Hole.stl):ピンホールをLED側にして置きます。<br>
