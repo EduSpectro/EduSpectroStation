@@ -13,6 +13,7 @@ EduSpectro4X基板、投光器のLEDをON-OFFするトグルスイッチ、投�
 ファイルはSTLフォルダに入っています。GitHubには「STL表示機能」がありますので、パーツを3D表示で見てみましょう。
 <br>
 **本体**　<br>
+<br>
 ![ベースプレートへの組み立て１](images/stl_Assy1.png) 
 <br>
 
@@ -21,10 +22,12 @@ EduSpectro4X基板、投光器のLEDをON-OFFするトグルスイッチ、投�
 [サポート](stl/Support.stl):光路にセンサーを置くための基板の位置ぎめサポートです。<br>
 <br>
 
+**投光器**　<br>
+<br>
 ![投光器の組み立て](images/stl_Assy2.png) 
 <br>
 
-**投光器**　<br>
+
 [投光器筐体](stl/Light.stl):投光器の土台です。<br>
 [LEDブロック](stl/BaseLED.stl):LEDを保持します。外そうと思えば外れるけれど自然には外れないハメ合いで造形します。<br>
 [ピンホール](stl/Hole.stl):ピンホールをLED側にして置きます。ピンホールの面から側面の端部までの距離は使用したレンズの焦点に合わせて4mmにしました。レンズの焦点距離に合わせて調整します。<br>
@@ -33,6 +36,8 @@ EduSpectro4X基板、投光器のLEDをON-OFFするトグルスイッチ、投�
 <br>
 <br>
 
+**遮光カバー**　<br>
+<br>
 ![カバー](images/stl_Assy3.png) 
 
 [本体カバー](Cover.stl):装置の遮光カバーです。<br>
