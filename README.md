@@ -86,8 +86,8 @@ GitHubには「STL表示機能」がありますので、パーツを3D表示で
 ### 4. 「遮光スポンジ」の作成
 横からの光をブロックするために1mm厚のスポンジをセンサーの窓の周りに貼り付けます。
 <br>
-![スポンジの穴あけ](hole_ponch/wick.png) 
-![貼り付け](light_blocking/LED1.png) 
+![スポンジの穴あけ](images/hole_ponch.png) 
+![貼り付け](images/light_blocking.png) 
 <br>
 <br>
 
